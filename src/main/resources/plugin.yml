@@ -1,0 +1,9 @@
+name: Holy
+version: 1.0
+author: Agakitsune
+main: com.agakitsune.plugin.HolyPlugin
+commands:
+  epitech:
+    description: Vous donne -42 de la part de Marvin :)
+    usage: /epitech
+    permission: holy.everyone

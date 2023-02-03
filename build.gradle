@@ -47,7 +47,7 @@ processResources {
     }
 }
 
-tasks.register("BuildAndMove") {
+tasks.register("buildAndMove") {
     dependsOn tasks.build
 
     String filename = String.format("%s-%s.jar", archivesBaseName, version)
