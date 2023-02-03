@@ -1,0 +1,5 @@
+#! /bin/bash
+
+# Execute restart
+cd server
+./restart.sh

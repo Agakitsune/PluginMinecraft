@@ -1,0 +1,5 @@
+#! /bin/bash
+
+#Excute start.sh
+cd server
+./start.sh
